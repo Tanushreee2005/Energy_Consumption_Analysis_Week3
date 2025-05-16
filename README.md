@@ -1,1 +1,2 @@
 # Energy_Consumption_Analysis_Week3
+In today’s energy-conscious world, efficient monitoring and management of energy consumption is crucial for sustainability, cost savings, and environmental responsibility. The Energy Consumption Trend Analysis Project using Power BI aims to provide deep insights into energy usage patterns across various parameters such as time, location, departments, and equipment types.
